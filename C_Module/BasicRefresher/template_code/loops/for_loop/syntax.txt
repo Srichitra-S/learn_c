@@ -1,0 +1,4 @@
+for (init; condition; post evaluation expr)
+{
+    statement (s);
+}
